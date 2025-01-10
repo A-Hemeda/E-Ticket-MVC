@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "Life",
+    "Description": "This is the Life movie description",
+    "Price": 39.50,
+    "ImageURL": "http://dotnethow.net/images/movies/movie-3.jpeg",
+    "StartDate": "2019-07-26T00:00:00",
+    "EndDate": "2019-07-29T00:00:00",
+    "CinemaId": 3,
+    "ProducerId": 3,
+    "MovieCategory": "MovieCategory.Documentary"
+  },
+  {
+    "Name": "The Shawshank Redemption",
+    "Description": "This is the Shawshank Redemption description",
+    "Price": 29.50,
+    "ImageURL": "http://dotnethow.net/images/movies/movie-1.jpeg",
+    "StartDate": "2000-05-15T00:00:00",
+    "EndDate": "2000-05-17T00:00:00",
+    "CinemaId": 1,
+    "ProducerId": 1,
+    "MovieCategory": "MovieCategory.Action"
+  },
+  {
+    "Name": "Ghost",
+    "Description": "This is the Ghost movie description",
+    "Price": 39.50,
+    "ImageURL": "http://dotnethow.net/images/movies/movie-4.jpeg",
+    "StartDate": "2010-03-14T00:00:00",
+    "EndDate": "2010-03-21T00:00:00",
+    "CinemaId": 4,
+    "ProducerId": 4,
+    "MovieCategory": "MovieCategory.Horror"
+  },
+  {
+    "Name": "Race",
+    "Description": "This is the Race movie description",
+    "Price": 39.50,
+    "ImageURL": "http://dotnethow.net/images/movies/movie-6.jpeg",
+    "StartDate": "2022-07-21T00:00:00",
+    "EndDate": "2022-07-25T00:00:00",
+    "CinemaId": 1,
+    "ProducerId": 2,
+    "MovieCategory": "MovieCategory.Documentary"
+  },
+  {
+    "Name": "Scoob",
+    "Description": "This is the Scoob movie description",
+    "Price": 39.50,
+    "ImageURL": "http://dotnethow.net/images/movies/movie-7.jpeg",
+    "StartDate": "2020-02-24T00:00:00",
+    "EndDate": "2020-02-28T00:00:00",
+    "CinemaId": 1,
+    "ProducerId": 3,
+    "MovieCategory": "MovieCategory.Cartoon"
+  },
+  {
+    "Name": "Cold Soles",
+    "Description": "This is the Cold Soles movie description",
+    "Price": 39.50,
+    "ImageURL": "http://dotnethow.net/images/movies/movie-8.jpeg",
+    "StartDate": "2018-08-16T00:00:00",
+    "EndDate": "2018-08-29T00:00:00",
+    "CinemaId": 1,
+    "ProducerId": 5,
+    "MovieCategory": "MovieCategory.Drama"
+  }
+]

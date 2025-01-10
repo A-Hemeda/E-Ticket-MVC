@@ -1,0 +1,27 @@
+[
+  {
+    "FullName" :"Producer 1",
+    "Bio" : "This is the Bio of the first actor",
+    "ProfilePictureURL" : "http://dotnethow.net/images/producers/producer-1.jpeg"
+  },
+  {
+    "FullName": "Producer 2",
+    "Bio": "This is the Bio of the scond actor",
+    "ProfilePictureURL": "http://dotnethow.net/images/producers/producer-2.jpeg"
+  },
+  {
+    "FullName": "Producer 3",
+    "Bio": "This is the Bio of the third actor",
+    "ProfilePictureURL": "http://dotnethow.net/images/producers/producer-2.jpeg"
+  },
+  {
+    "FullName": "Producer 4",
+    "Bio": "This is the Bio of the forth actor",
+    "ProfilePictureURL": "http://dotnethow.net/images/producers/producer-4.jpeg"
+  },
+  {
+    "FullName": "Producer 5",
+    "Bio": "This is the Bio of the fifth actor",
+    "ProfilePictureURL": "http://dotnethow.net/images/producers/producer-5.jpeg"
+  }
+]
